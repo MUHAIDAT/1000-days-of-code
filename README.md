@@ -26,7 +26,24 @@ Practiced modifying variables directly using references
 - Updates the original client object using references
 
 ---
+# Day 3
 
+Continuing my 1000 Days of Code journey.
+
+Today’s Progress:
+- Focused on applying my previous C++ knowledge to my Bank System project.
+- The project is completely built by me from scratch:
+     - A console-based Bank System to add, update, delete, and search for clients.
+     - Handles data safely with files and struct objects.
+     - Includes safe deletion using MarkForDelete and formatted console output.
+     - 
+- Today’s challenge:
+     - Fixed a loop/bug when searching for a client caused by input buffer issues.
+     - Used getline(cin >> ws, ...) to handle input correctly and prevent infinite loops.
+
+Challenge
+- Practiced debugging and applying existing concepts to solve real problems.
+- Reinforced the importance of careful input handling and testing in console applications.
 
 
 
