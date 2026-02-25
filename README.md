@@ -45,6 +45,35 @@ Challenge
 - Practiced debugging and applying existing concepts to solve real problems.
 - Reinforced the importance of careful input handling and testing in console applications.
 
+---
+# Day 4
+
+Number to English Words Converter (C++)
+A recursive C++ program that converts numeric values into their English word representation.
+
+📌 Description
+This project demonstrates number decomposition using division and modulus operations to convert integers into readable English words (Hundred, Thousand, Million, Billion).
+
+Supports values up to:
+999,999,999,999
+
+🧠 Core Concepts:
+- Recursion
+- Mathematical breakdown of numbers
+- String construction
+- Large integer handling (long long)
+- Edge case handling
+
+⚙️ Example
+Input:  1002003
+Output: One Million Two Thousand Three
+
+🎯 Purpose
+- Built as part of advanced algorithm practice to strengthen:
+- Recursive thinking
+- Clean conditional structuring
+- Runtime debugging skills
+- Logical problem decomposition
 
 
 
