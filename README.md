@@ -65,8 +65,8 @@ Supports values up to:
 - Edge case handling
 
 ⚙️ Example:
-Input:  1002003.
-Output: One Million Two Thousand Three.
+- Input:  1002003.
+- Output: One Million Two Thousand Three.
 
 🎯 Purpose
 - Built as part of advanced algorithm practice to strengthen:
