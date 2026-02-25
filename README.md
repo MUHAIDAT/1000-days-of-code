@@ -64,9 +64,9 @@ Supports values up to:
 - Large integer handling (long long)
 - Edge case handling
 
-⚙️ Example
-Input:  1002003
-Output: One Million Two Thousand Three
+⚙️ Example:
+Input:  1002003.
+Output: One Million Two Thousand Three.
 
 🎯 Purpose
 - Built as part of advanced algorithm practice to strengthen:
